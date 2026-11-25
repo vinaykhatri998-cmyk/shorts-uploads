@@ -4,9 +4,9 @@ Format: problem, then a chain of fixes, then today. All told in voiceover; no PR
 
 ## Posted
 - 2026-11-25 How Toilets Evolved (uploaded manually by rajat)
+- 2026-11-25 How Locks Evolved
 
 ## Up next (pick the first unchecked, then mark it posted above)
-- How the Lock and Key Evolved (wooden pin lock, Roman keys, warded locks, pin tumbler, combination, smart locks)
 - How Refrigerators Evolved (cellars, ice houses, ice box, first fridge, freon, modern fridge)
 - How Light Bulbs Evolved (fire, oil lamp, candle, gas lamp, Edison bulb, LED)
 - How Bridges Evolved (log, stone arch, rope bridge, iron truss, suspension, cable-stayed)
