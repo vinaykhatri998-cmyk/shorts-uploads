@@ -13,7 +13,7 @@ from kokoro_onnx import Kokoro
 
 HERE = Path(__file__).resolve().parent
 VOICE, LANG, SPEED = "am_michael", "en-us", 1.12
-PRONOUNCE = {"5,000": "five thousand", "1596": "fifteen ninety-six", "1775": "seventeen seventy-five"}
+PRONOUNCE = {"2,000": "two thousand", "1834": "eighteen thirty-four", "1800s": "eighteen hundreds", "1910s": "nineteen tens", "yakhchals": "yakh-chaals"}
 sys.path.insert(0, str(HERE))
 from timeline import estimate
 
