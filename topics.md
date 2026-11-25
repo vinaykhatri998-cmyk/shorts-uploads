@@ -5,7 +5,7 @@ Format: problem, then a chain of fixes, then today. All told in voiceover; no PR
 ## Posted
 - 2026-11-25 How Toilets Evolved (uploaded manually by rajat)
 - 2026-11-25 How Locks Evolved
-- 2026-11-25 How Refrigerators Evolved (auto-upload throttled, sent to rajat to upload)
+- 2026-11-25 How Refrigerators Evolved (uploaded 19:05 UTC after a Zapier throttle)
 
 ## Up next (pick the first unchecked, then mark it posted above)
 - How Light Bulbs Evolved (fire, oil lamp, candle, gas lamp, Edison bulb, LED)
