@@ -5,9 +5,9 @@ Format: problem, then a chain of fixes, then today. All told in voiceover; no PR
 ## Posted
 - 2026-11-25 How Toilets Evolved (uploaded manually by rajat)
 - 2026-11-25 How Locks Evolved
+- 2026-11-25 How Refrigerators Evolved
 
 ## Up next (pick the first unchecked, then mark it posted above)
-- How Refrigerators Evolved (cellars, ice houses, ice box, first fridge, freon, modern fridge)
 - How Light Bulbs Evolved (fire, oil lamp, candle, gas lamp, Edison bulb, LED)
 - How Bridges Evolved (log, stone arch, rope bridge, iron truss, suspension, cable-stayed)
 - How Elevators Evolved (rope hoists, Otis safety brake, electric, skyscraper express)

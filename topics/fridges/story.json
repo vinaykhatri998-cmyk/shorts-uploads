@@ -1,0 +1,17 @@
+{
+ "title": "How Refrigerators Evolved",
+ "upload_title": "How Fridges Evolved ❄️ From Ice Houses to Your Kitchen #shorts #engineering",
+ "fps": 30,
+ "beats": [
+  {"badge": null, "shot": "market", "text": "Before fridges, fresh food spoiled in days.", "hl": ["spoiled"]},
+  {"badge": null, "shot": "market", "text": "Here's how keeping food cold evolved.", "hl": ["cold"]},
+  {"badge": null, "shot": "cellar", "text": "People salted meat and stored food in cool cellars, but summer heat still won.", "hl": ["cellars", "heat"]},
+  {"badge": null, "shot": "yakhchal", "text": "Over 2,000 years ago, Persians built giant domed ice houses, called yakhchals, that kept winter ice frozen all summer.", "hl": ["yakhchals", "ice"]},
+  {"badge": null, "shot": "icebox", "text": "In the 1800s, ice was cut from frozen lakes and delivered to homes, to cool a wooden icebox.", "hl": ["icebox"]},
+  {"badge": null, "shot": "perkins", "text": "In 1834, Jacob Perkins built the first machine to make cold, by squeezing and expanding a gas.", "hl": ["machine", "gas"]},
+  {"badge": null, "shot": "oldfridge", "text": "Electric home fridges arrived in the 1910s, but early ones could leak toxic gas.", "hl": ["toxic"]},
+  {"badge": null, "shot": "ozone", "text": "Safer Freon took over, until we learned it was eating the ozone layer.", "hl": ["Freon", "ozone"]},
+  {"badge": null, "shot": "modern", "text": "Today's fridges use ozone-safe gases and a fraction of the power.", "hl": ["fraction"]},
+  {"badge": null, "shot": "modern", "text": "Follow to see how everything evolved.", "hl": ["Follow"]}
+ ]
+}
