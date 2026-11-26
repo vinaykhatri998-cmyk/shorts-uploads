@@ -1,0 +1,19 @@
+{
+ "title": "How Air Conditioning Evolved",
+ "upload_title": "How Air Conditioning Evolved ❄️ From Wet Reeds to Heat Pumps #shorts #engineering",
+ "description": "Summer heat used to be something you just survived. From wet reeds in Egyptian windows and Persian wind catchers to shipped lake ice, Willis Carrier's 1902 machine, window units, and today's split ACs and heat pumps. Follow for more How It Evolved!\n\n#shorts #history #engineering #airconditioning #howitevolved",
+ "tags": ["shorts", "history", "engineering", "air conditioning", "how it evolved", "AC", "heat pump"],
+ "pronounce": {"1902": "nineteen oh two", "1950s": "nineteen fifties", "1800s": "eighteen hundreds", "ACs": "A Cs"},
+ "fps": 30,
+ "beats": [
+  {"shot": "heat", "text": "Summer heat used to be something you just had to survive.", "hl": ["heat", "survive"]},
+  {"shot": "heat", "text": "Here's how air conditioning evolved.", "hl": ["air", "conditioning"]},
+  {"shot": "reeds", "text": "Egyptians hung wet reeds in their windows. As the water evaporated, the breeze cooled down.", "hl": ["wet", "reeds", "cooled"]},
+  {"shot": "windcatcher", "text": "In Persia, tall wind catchers pulled breezes down, past cool underground water.", "hl": ["wind", "catchers", "underground"]},
+  {"shot": "ice", "text": "In the 1800s, people cut ice from frozen lakes and shipped it around the world.", "hl": ["ice"]},
+  {"shot": "carrier", "text": "Then in 1902, Willis Carrier built the first modern air conditioner, for a printing plant.", "hl": ["Carrier", "1902"]},
+  {"shot": "window", "text": "By the 1950s, window units brought cool air into homes.", "hl": ["window", "homes"]},
+  {"shot": "split", "text": "Today, split ACs and heat pumps move heat outside, using far less energy.", "hl": ["heat", "pumps", "energy"]},
+  {"shot": "split", "text": "Follow to see how everything evolved.", "hl": ["Follow"]}
+ ]
+}
