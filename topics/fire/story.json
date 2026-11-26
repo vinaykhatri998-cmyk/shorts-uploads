@@ -1,0 +1,19 @@
+{
+ "title": "How Fire Starting Evolved",
+ "upload_title": "How Starting Fire Evolved 🔥 From Friction to a Click #shorts #engineering",
+ "description": "For most of history, making fire took real skill. From friction sticks and flint sparks (Ötzi the Iceman carried a fire kit 5,300 years ago) to John Walker's 1826 match, safety matches, pocket lighters, and today's click-to-light stoves and flameless induction. Follow for more How It Evolved!\n\n#shorts #history #engineering #fire #howitevolved",
+ "tags": ["shorts", "history", "engineering", "fire", "how it evolved", "matches", "lighter"],
+ "pronounce": {"1826": "eighteen twenty-six", "Ötzi": "Ertsee"},
+ "fps": 30,
+ "beats": [
+  {"shot": "friction", "text": "For most of history, making fire took real skill.", "hl": ["fire", "skill"]},
+  {"shot": "friction", "text": "Here's how starting fire evolved.", "hl": ["fire"]},
+  {"shot": "friction", "text": "Early humans spun a stick against wood, until the friction made a glowing ember.", "hl": ["friction", "ember"]},
+  {"shot": "flint", "text": "Later, striking flint on iron threw sparks onto dry tinder. Ötzi the Iceman carried a fire kit over five thousand years ago.", "hl": ["flint", "sparks", "Ötzi"]},
+  {"shot": "match", "text": "In 1826, John Walker invented the friction match, by accident.", "hl": ["match", "accident"]},
+  {"shot": "match", "text": "Safety matches only lit when struck on their own box.", "hl": ["Safety", "box"]},
+  {"shot": "lighter", "text": "Pocket lighters made a flame with a flick of a wheel.", "hl": ["lighters", "flick"]},
+  {"shot": "stove", "text": "Today, a stove lights with a click, and induction cooktops cook with no flame at all.", "hl": ["click", "no", "flame"]},
+  {"shot": "stove", "text": "Follow to see how everything evolved.", "hl": ["Follow"]}
+ ]
+}
