@@ -1,0 +1,91 @@
+{
+ "title": "How Tunnels Evolved",
+ "upload_title": "How Tunnels Evolved ⛰️ From Hand Tools to Giant Drills #shorts #engineering",
+ "description": "To get past a mountain, you used to go all the way around. From the Greek tunnel dug by hand from both ends, to gunpowder blasting, Marc Brunel's 1825 tunneling shield under the Thames, today's tunnel boring machines, and the 57 km Gotthard Base Tunnel. Follow for more How It Evolved!\n\n#shorts #history #engineering #tunnels #howitevolved",
+ "tags": [
+  "shorts",
+  "history",
+  "engineering",
+  "tunnels",
+  "how it evolved",
+  "gotthard",
+  "tunnel boring machine"
+ ],
+ "pronounce": {
+  "1825": "eighteen twenty-five",
+  "1600s": "sixteen hundreds",
+  "Gotthard": "Got-hard"
+ },
+ "fps": 30,
+ "beats": [
+  {
+   "shot": "mountain",
+   "text": "To get past a mountain, you used to go all the way around.",
+   "hl": [
+    "mountain",
+    "around"
+   ]
+  },
+  {
+   "shot": "mountain",
+   "text": "Here's how tunnels evolved.",
+   "hl": [
+    "tunnels"
+   ]
+  },
+  {
+   "shot": "handdig",
+   "text": "Over two thousand five hundred years ago, the Greeks dug a kilometer-long tunnel by hand, from both ends, and met in the middle.",
+   "hl": [
+    "hand",
+    "middle"
+   ]
+  },
+  {
+   "shot": "blast",
+   "text": "In the 1600s, gunpowder started blasting through solid rock.",
+   "hl": [
+    "gunpowder",
+    "rock"
+   ]
+  },
+  {
+   "shot": "shield",
+   "text": "In 1825, Marc Brunel's iron shield let workers dig safely under the River Thames.",
+   "hl": [
+    "shield",
+    "Thames"
+   ]
+  },
+  {
+   "shot": "tbm",
+   "text": "Today, giant tunnel boring machines grind through rock, and build the walls as they go.",
+   "hl": [
+    "boring",
+    "machines"
+   ]
+  },
+  {
+   "shot": "tbm",
+   "text": "The biggest ones are as tall as a five-story building.",
+   "hl": [
+    "five-story"
+   ]
+  },
+  {
+   "shot": "gotthard",
+   "text": "The Gotthard Base Tunnel runs fifty-seven kilometers under the Alps.",
+   "hl": [
+    "fifty-seven",
+    "Alps"
+   ]
+  },
+  {
+   "shot": "gotthard",
+   "text": "Follow to see how everything evolved.",
+   "hl": [
+    "Follow"
+   ]
+  }
+ ]
+}
