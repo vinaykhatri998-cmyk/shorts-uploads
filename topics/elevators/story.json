@@ -1,0 +1,21 @@
+{
+ "title": "How Elevators Evolved",
+ "upload_title": "How Elevators Evolved 🛗 From Rope Hoists to 70 km/h #shorts #engineering",
+ "description": "Before elevators, a building was only as tall as people were willing to climb. From Roman lifts in the Colosseum to Elisha Otis cutting his own rope in 1854, the first passenger and electric elevators, and today's lifts that climb over 70 km/h. Follow for more How It Evolved!\n\n#shorts #history #engineering #elevator #howitevolved",
+ "tags": ["shorts", "history", "engineering", "elevator", "how it evolved", "otis", "skyscraper"],
+ "pronounce": {"1854": "eighteen fifty-four", "1880": "eighteen eighty", "Siemens": "Seemens"},
+ "fps": 30,
+ "beats": [
+  {"shot": "stairs", "text": "Before elevators, every building had one hard limit: your legs.", "hl": ["legs"]},
+  {"shot": "stairs", "text": "Here's how elevators evolved.", "hl": ["elevators"]},
+  {"shot": "colosseum", "text": "In the Colosseum, Roman workers turned giant wheels to lift wild animals up into the arena.", "hl": ["wheels", "animals"]},
+  {"shot": "otis", "text": "But ropes could snap, so nobody trusted a lift with people.", "hl": ["snap"]},
+  {"shot": "otis", "text": "In 1854, Elisha Otis stood on a platform, and had the rope cut.", "hl": ["Otis", "cut"]},
+  {"shot": "otis", "text": "His safety brake caught it instantly.", "hl": ["safety", "brake"]},
+  {"shot": "passenger", "text": "Three years later, the first passenger elevator opened in New York.", "hl": ["passenger"]},
+  {"shot": "electric", "text": "In 1880, Werner von Siemens built the first electric elevator.", "hl": ["electric"]},
+  {"shot": "skyscraper", "text": "That made skyscrapers possible.", "hl": ["skyscrapers"]},
+  {"shot": "skyscraper", "text": "Today, the fastest elevators climb at over seventy kilometers an hour.", "hl": ["seventy"]},
+  {"shot": "skyscraper", "text": "Follow to see how everything evolved.", "hl": ["Follow"]}
+ ]
+}
