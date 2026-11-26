@@ -6,10 +6,13 @@ Format: problem, then a chain of fixes, then today. All told in voiceover; no PR
 - 2026-11-25 How Toilets Evolved (uploaded manually by rajat)
 - 2026-11-25 How Locks Evolved
 - 2026-11-25 How Refrigerators Evolved (uploaded 19:05 UTC after a Zapier throttle)
+- 2026-11-26 How Light Bulbs Evolved (uploaded manually by rajat)
+- 2026-11-26 How Bridges Evolved https://youtube.com/shorts/Iab_Y6DwdHI
+
+## Made ahead (in how-it-evolved/ready/QUEUE.md)
+- Elevators, Clocks, Air Conditioning, Ships, Bicycles, Roads, Batteries, Fire Starting, Tunnels
 
 ## Up next (pick the first unchecked, then mark it posted above)
-- How Light Bulbs Evolved (fire, oil lamp, candle, gas lamp, Edison bulb, LED)
-- How Bridges Evolved (log, stone arch, rope bridge, iron truss, suspension, cable-stayed)
 - How Elevators Evolved (rope hoists, Otis safety brake, electric, skyscraper express)
 - How Roads Evolved (dirt tracks, Roman roads, macadam, asphalt, highways)
 - How Clocks Evolved (sundial, water clock, pendulum, quartz, atomic)
