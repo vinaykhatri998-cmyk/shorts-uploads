@@ -1,0 +1,19 @@
+{
+ "title": "How Roads Evolved",
+ "upload_title": "How Roads Evolved 🛣️ From Mud Tracks to Highways #shorts #engineering",
+ "description": "Before roads, every rainy day turned travel into a mud trap. From the first stone streets in Mesopotamia to layered Roman roads, McAdam's crushed stone, the tarmac patent of 1902, and today's highways. Follow for more How It Evolved!\n\n#shorts #history #engineering #roads #howitevolved",
+ "tags": ["shorts", "history", "engineering", "roads", "how it evolved", "roman roads", "asphalt"],
+ "pronounce": {"1820s": "eighteen twenties", "1902": "nineteen oh two", "McAdam": "Mc Adam"},
+ "fps": 30,
+ "beats": [
+  {"shot": "mud", "text": "Before roads, every rainy day turned travel into a mud trap.", "hl": ["mud", "trap"]},
+  {"shot": "mud", "text": "Here's how roads evolved.", "hl": ["roads"]},
+  {"shot": "paved", "text": "Over five thousand years ago, Mesopotamian cities began paving their streets with stone.", "hl": ["paving", "stone"]},
+  {"shot": "roman", "text": "The Romans went further: layers of sand, gravel and fitted stone, curved so the rain ran off.", "hl": ["layers", "rain"]},
+  {"shot": "roman", "text": "They built over eighty thousand kilometers of paved roads.", "hl": ["eighty", "thousand"]},
+  {"shot": "macadam", "text": "In the 1820s, John McAdam packed crushed stone into one tight, smooth layer.", "hl": ["crushed", "stone"]},
+  {"shot": "tarmac", "text": "Then in 1902, Edgar Hooley sealed it with tar, and tarmac was born.", "hl": ["tar", "tarmac"]},
+  {"shot": "highway", "text": "Today, highways stack thick layers of asphalt and concrete, carrying millions of cars every day.", "hl": ["asphalt", "concrete", "millions"]},
+  {"shot": "highway", "text": "Follow to see how everything evolved.", "hl": ["Follow"]}
+ ]
+}
