@@ -1,0 +1,19 @@
+{
+ "title": "How Batteries Evolved",
+ "upload_title": "How Batteries Evolved 🔋 From Salty Discs to Lithium-Ion #shorts #engineering",
+ "description": "The first battery was a stack of metal discs and salty cloth. From Volta's pile in 1800 to Planté's rechargeable lead-acid battery, the dry cell and the flashlight, alkaline cells, and the lithium-ion battery that powers phones and electric cars. Follow for more How It Evolved!\n\n#shorts #history #engineering #battery #howitevolved",
+ "tags": ["shorts", "history", "engineering", "battery", "how it evolved", "lithium ion", "volta"],
+ "pronounce": {"1800": "eighteen hundred", "1859": "eighteen fifty-nine", "1880s": "eighteen eighties", "1991": "nineteen ninety-one", "Planté": "Plantay", "lithium-ion": "lithium eye on"},
+ "fps": 30,
+ "beats": [
+  {"shot": "pile", "text": "The first battery was a stack of metal discs and salty cloth.", "hl": ["metal", "salty"]},
+  {"shot": "pile", "text": "Here's how batteries evolved.", "hl": ["batteries"]},
+  {"shot": "pile", "text": "In 1800, Alessandro Volta stacked zinc, copper and wet cloth, and got a steady electric current.", "hl": ["Volta", "current"]},
+  {"shot": "leadacid", "text": "In 1859, Gaston Planté built the first rechargeable battery, from lead and acid. Most cars still use one.", "hl": ["rechargeable", "cars"]},
+  {"shot": "drycell", "text": "In the 1880s, the dry cell made batteries portable, and powered the first flashlights.", "hl": ["dry", "flashlights"]},
+  {"shot": "drycell", "text": "Then alkaline cells lasted far longer, in toys and remotes.", "hl": ["alkaline"]},
+  {"shot": "lithium", "text": "In 1991, Sony sold the first lithium-ion battery.", "hl": ["lithium-ion"]},
+  {"shot": "ev", "text": "Today, lithium-ion powers your phone, your laptop, and electric cars.", "hl": ["phone", "electric"]},
+  {"shot": "ev", "text": "Follow to see how everything evolved.", "hl": ["Follow"]}
+ ]
+}
