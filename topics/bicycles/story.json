@@ -1,0 +1,19 @@
+{
+ "title": "How Bicycles Evolved",
+ "upload_title": "How Bicycles Evolved 🚲 From No Pedals to E-Bikes #shorts #engineering",
+ "description": "The first bicycle had no pedals at all. From Karl Drais' 1817 running machine to the boneshaker, the penny-farthing, the 1885 safety bicycle, air-filled tires and today's carbon and electric bikes. Follow for more How It Evolved!\n\n#shorts #history #engineering #bicycle #howitevolved",
+ "tags": ["shorts", "history", "engineering", "bicycle", "how it evolved", "penny farthing", "ebike"],
+ "pronounce": {"1817": "eighteen seventeen", "1860s": "eighteen sixties", "1885": "eighteen eighty-five"},
+ "fps": 30,
+ "beats": [
+  {"shot": "draisine", "text": "The first bicycle had no pedals at all.", "hl": ["no", "pedals"]},
+  {"shot": "draisine", "text": "Here's how bicycles evolved.", "hl": ["bicycles"]},
+  {"shot": "draisine", "text": "In 1817, Karl Drais built a wooden running machine. You pushed it along with your feet.", "hl": ["running", "feet"]},
+  {"shot": "boneshaker", "text": "In the 1860s, pedals were added to the front wheel. People called it the boneshaker.", "hl": ["pedals", "boneshaker"]},
+  {"shot": "penny", "text": "To go faster, the front wheel grew huge. The penny-farthing was quick, but falls were brutal.", "hl": ["huge", "falls"]},
+  {"shot": "safety", "text": "In 1885, the safety bicycle added a chain to the back wheel, and two equal wheels.", "hl": ["chain", "equal"]},
+  {"shot": "safety", "text": "Air-filled tires soon smoothed out the ride.", "hl": ["tires"]},
+  {"shot": "ebike", "text": "Today, bikes have light carbon frames, dozens of gears, and even electric motors.", "hl": ["carbon", "electric"]},
+  {"shot": "ebike", "text": "Follow to see how everything evolved.", "hl": ["Follow"]}
+ ]
+}
