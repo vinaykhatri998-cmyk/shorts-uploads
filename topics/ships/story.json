@@ -1,0 +1,99 @@
+{
+ "title": "How Ships Evolved",
+ "upload_title": "How Ships Evolved 🚢 From Hollow Logs to Mega Ships #shorts #engineering",
+ "description": "For thousands of years, open water was a wall. From a ten-thousand-year-old dugout canoe to Egyptian sails, ocean-crossing galleons, Fulton's 1807 steamboat, the first container ship in 1956, and today's giants carrying over 20,000 containers. Follow for more How It Evolved!\n\n#shorts #history #engineering #ships #howitevolved",
+ "tags": [
+  "shorts",
+  "history",
+  "engineering",
+  "ships",
+  "how it evolved",
+  "container ship",
+  "boats"
+ ],
+ "pronounce": {
+  "1500s": "fifteen hundreds",
+  "1807": "eighteen oh seven",
+  "1956": "nineteen fifty-six"
+ },
+ "fps": 30,
+ "beats": [
+  {
+   "shot": "sea",
+   "text": "For thousands of years, open water was a wall.",
+   "hl": [
+    "water",
+    "wall"
+   ]
+  },
+  {
+   "shot": "sea",
+   "text": "Here's how ships evolved.",
+   "hl": [
+    "ships"
+   ]
+  },
+  {
+   "shot": "canoe",
+   "text": "The oldest boat ever found is a dugout canoe, a hollowed log, about ten thousand years old.",
+   "hl": [
+    "canoe",
+    "log"
+   ]
+  },
+  {
+   "shot": "sail",
+   "text": "Egyptians added sails, and let the wind do the work.",
+   "hl": [
+    "sails",
+    "wind"
+   ]
+  },
+  {
+   "shot": "galleon",
+   "text": "By the 1500s, giant galleons with many masts crossed entire oceans.",
+   "hl": [
+    "galleons",
+    "oceans"
+   ]
+  },
+  {
+   "shot": "steam",
+   "text": "In 1807, Robert Fulton's steamboat didn't need wind at all.",
+   "hl": [
+    "steamboat",
+    "wind"
+   ]
+  },
+  {
+   "shot": "steam",
+   "text": "Steel hulls and powerful engines soon made ships bigger than ever.",
+   "hl": [
+    "Steel",
+    "bigger"
+   ]
+  },
+  {
+   "shot": "container",
+   "text": "In 1956, the first container ship sailed, and shipping changed forever.",
+   "hl": [
+    "container"
+   ]
+  },
+  {
+   "shot": "container",
+   "text": "Today, the biggest ships carry over twenty thousand containers at once.",
+   "hl": [
+    "twenty",
+    "thousand"
+   ]
+  },
+  {
+   "shot": "container",
+   "text": "Follow to see how everything evolved.",
+   "hl": [
+    "Follow"
+   ]
+  }
+ ]
+}
