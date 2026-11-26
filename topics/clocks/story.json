@@ -1,0 +1,19 @@
+{
+ "title": "How Clocks Evolved",
+ "upload_title": "How Clocks Evolved ⏰ From Shadows to Atomic Time #shorts #engineering",
+ "description": "Before clocks, the only timekeeper was the sun. From Egyptian shadow clocks and water clocks to medieval tower clocks, Huygens' pendulum in 1656, the first quartz watch in 1969, and atomic clocks that keep GPS on time. Follow for more How It Evolved!\n\n#shorts #history #engineering #clocks #howitevolved",
+ "tags": ["shorts", "history", "engineering", "clocks", "how it evolved", "atomic clock", "pendulum"],
+ "pronounce": {"1656": "sixteen fifty-six", "1969": "nineteen sixty-nine", "Huygens": "Hoygens", "GPS": "G P S"},
+ "fps": 30,
+ "beats": [
+  {"shot": "sundial", "text": "Before clocks, the only timekeeper was the sun.", "hl": ["sun"]},
+  {"shot": "sundial", "text": "Here's how clocks evolved.", "hl": ["clocks"]},
+  {"shot": "sundial", "text": "Over three thousand years ago, Egyptians read the time from moving shadows.", "hl": ["shadows"]},
+  {"shot": "water", "text": "But shadows vanish at night, so water clocks dripped at a steady rate to mark the hours.", "hl": ["night", "water"]},
+  {"shot": "tower", "text": "Medieval Europe built giant tower clocks, driven by falling weights and gears.", "hl": ["weights", "gears"]},
+  {"shot": "pendulum", "text": "In 1656, Christiaan Huygens added a pendulum, and clocks finally became accurate.", "hl": ["pendulum", "accurate"]},
+  {"shot": "quartz", "text": "In 1969, the first quartz watch arrived. Its tiny crystal vibrates over thirty-two thousand times a second.", "hl": ["quartz", "thirty-two", "thousand"]},
+  {"shot": "atomic", "text": "Today, atomic clocks lose less than a second in millions of years, and they keep GPS on time.", "hl": ["atomic", "GPS"]},
+  {"shot": "atomic", "text": "Follow to see how everything evolved.", "hl": ["Follow"]}
+ ]
+}
