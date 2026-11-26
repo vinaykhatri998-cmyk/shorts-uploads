@@ -1,0 +1,21 @@
+{
+ "title": "How Bridges Evolved",
+ "upload_title": "How Bridges Evolved 🌉 From Fallen Logs to Cable Giants #shorts #engineering",
+ "description": "Crossing a river used to mean getting wet. From fallen logs and stone slabs to Roman arches, Inca rope bridges, the 1779 Iron Bridge, steel trusses, the Golden Gate and today's cable-stayed giants. Follow for more How It Evolved!\n\n#shorts #history #engineering #bridges #howitevolved",
+ "tags": ["shorts", "history", "engineering", "bridges", "how it evolved", "golden gate", "roman arch"],
+ "pronounce": {"1779": "seventeen seventy-nine", "1937": "nineteen thirty-seven"},
+ "fps": 30,
+ "beats": [
+  {"shot": "log", "text": "Crossing a river used to mean getting wet, or worse.", "hl": ["river", "wet"]},
+  {"shot": "log", "text": "Here's how bridges evolved.", "hl": ["bridges"]},
+  {"shot": "log", "text": "The first bridges were just fallen logs, laid across a stream.", "hl": ["logs"]},
+  {"shot": "log", "text": "Later, people stacked stones and laid flat slabs on top.", "hl": ["slabs"]},
+  {"shot": "arch", "text": "The Romans mastered the stone arch. Its curve pushes the weight down into the ground, and some still stand after two thousand years.", "hl": ["arch", "two", "thousand"]},
+  {"shot": "rope", "text": "In the mountains, the Inca wove rope bridges from grass, across deep gorges.", "hl": ["rope", "grass"]},
+  {"shot": "ironbridge", "text": "In 1779, England built the first iron bridge.", "hl": ["iron", "1779"]},
+  {"shot": "truss", "text": "Steel trusses then carried heavy trains across wide rivers.", "hl": ["trusses", "trains"]},
+  {"shot": "suspension", "text": "Suspension bridges hang the road from huge cables, like the Golden Gate in 1937.", "hl": ["cables", "Golden", "Gate"]},
+  {"shot": "cablestay", "text": "Today, cable-stayed bridges run cables straight from tall towers, spanning over a kilometer.", "hl": ["towers", "kilometer"]},
+  {"shot": "cablestay", "text": "Follow to see how everything evolved.", "hl": ["Follow"]}
+ ]
+}
