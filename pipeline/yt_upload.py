@@ -4,7 +4,7 @@ Needs env YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN (OAuth, scope youtube
 Marks the entry posted in QUEUE.md; the workflow commits that change.
 Note: until the Google Cloud project passes YouTube's API audit, YouTube locks API uploads to private.
 """
-import datetime, json, os, re, sys, urllib.parse, urllib.request
+import datetime, json, os, re, sys, urllib.error, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -13,11 +13,20 @@ QUEUE = READY / "QUEUE.md"
 
 
 def token():
+    env = {k: os.environ[k].strip().strip('"').strip() for k in ("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN")}
     data = urllib.parse.urlencode({
-        "client_id": os.environ["YT_CLIENT_ID"], "client_secret": os.environ["YT_CLIENT_SECRET"],
-        "refresh_token": os.environ["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"}).encode()
-    with urllib.request.urlopen("https://oauth2.googleapis.com/token", data) as r:
-        return json.loads(r.read())["access_token"]
+        "client_id": env["YT_CLIENT_ID"], "client_secret": env["YT_CLIENT_SECRET"],
+        "refresh_token": env["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"}).encode()
+    try:
+        with urllib.request.urlopen("https://oauth2.googleapis.com/token", data) as r:
+            return json.loads(r.read())["access_token"]
+    except urllib.error.HTTPError as e:
+        err = e.read().decode(errors="replace")
+        print(f"::error::Google token refresh failed ({e.code}): {err}")
+        print(f"YT_CLIENT_ID looks like: {env['YT_CLIENT_ID'][:6]}...{env['YT_CLIENT_ID'][-27:]} (len {len(env['YT_CLIENT_ID'])})")
+        print(f"YT_CLIENT_SECRET starts GOCSPX-: {env['YT_CLIENT_SECRET'].startswith('GOCSPX-')} (len {len(env['YT_CLIENT_SECRET'])})")
+        print(f"YT_REFRESH_TOKEN starts 1//: {env['YT_REFRESH_TOKEN'].startswith('1//')} (len {len(env['YT_REFRESH_TOKEN'])})")
+        raise
 
 
 def upload(tok, mp4, meta):
