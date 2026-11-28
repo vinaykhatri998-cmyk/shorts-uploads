@@ -5,7 +5,7 @@ Pre-made Shorts, posted in order by the 2-a-day scheduled run. Mark `[x]` with t
 - [x] bridges | How Bridges Evolved | 2026-11-26 https://youtube.com/shorts/Iab_Y6DwdHI
 - [x] elevators | How Elevators Evolved | handed to rajat 2026-11-27
 - [x] clocks | How Clocks Evolved | handed to rajat 2026-11-27
-- [ ] aircon | How Air Conditioning Evolved
+- [x] aircon | How Air Conditioning Evolved | handed to rajat 2026-11-28
 - [ ] ships | How Ships Evolved
 - [ ] bicycles | How Bicycles Evolved
 - [ ] roads | How Roads Evolved
