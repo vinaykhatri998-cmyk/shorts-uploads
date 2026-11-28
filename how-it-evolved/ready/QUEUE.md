@@ -6,7 +6,7 @@ Pre-made Shorts, posted in order by the 2-a-day scheduled run. Mark `[x]` with t
 - [x] elevators | How Elevators Evolved | handed to rajat 2026-11-27
 - [x] clocks | How Clocks Evolved | handed to rajat 2026-11-27
 - [x] aircon | How Air Conditioning Evolved | handed to rajat 2026-11-28
-- [ ] ships | How Ships Evolved
+- [x] ships | How Ships Evolved | 2026-11-28 https://youtube.com/shorts/d-NoWKugT90 (public, API)
 - [ ] bicycles | How Bicycles Evolved
 - [ ] roads | How Roads Evolved
 - [ ] batteries | How Batteries Evolved
